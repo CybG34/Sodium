@@ -11,7 +11,7 @@ self.__uv$config = {
      * @type {string}
      */
     bare: [
-        "https://moral.sachhot.com/bare/"
+        "https://interstellar.incognitotgt.us.eu.org/outerspace/"
         // Using a backend? Use this instead of Tomp.app:
         // "/bare1/",
         // "/bare2/",
